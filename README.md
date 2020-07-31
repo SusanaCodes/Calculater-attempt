@@ -1,2 +1,2 @@
 # Calculater-attempt
-Front Masters course ( with Brian Holt)- Complete Intro to React
+Front Masters ( with Brian Holt)- Complete Intro to React
